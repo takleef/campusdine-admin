@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "982303229444",
+    "project_id": "campus-dine",
+    "storage_bucket": "campus-dine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982303229444:android:e8c48b8be7e188964bd751",
+        "android_client_info": {
+          "package_name": "com.campusdine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982303229444-662cnrvmcj9e3l0ffpbtdjma6shln0u2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA36tpSx_xZX-5AsWaXMem-BNqzGaSbhmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982303229444-662cnrvmcj9e3l0ffpbtdjma6shln0u2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "982303229444-s8ho0e4indlmrj10bodvr5mkkht0e6bq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.campusdine"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982303229444:android:6bc27659b3273fd44bd751",
+        "android_client_info": {
+          "package_name": "com.campusdine.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982303229444-662cnrvmcj9e3l0ffpbtdjma6shln0u2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA36tpSx_xZX-5AsWaXMem-BNqzGaSbhmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982303229444-662cnrvmcj9e3l0ffpbtdjma6shln0u2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "982303229444-s8ho0e4indlmrj10bodvr5mkkht0e6bq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.campusdine"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
